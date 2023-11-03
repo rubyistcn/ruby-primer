@@ -1,4 +1,4 @@
-# just-the-docs-template
+# Ruby Primer 中文版
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
